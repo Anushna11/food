@@ -6,4 +6,8 @@ joblib
 uvicorn
 gunicorn
 fastapi
+pymongo
+pydantic
+requests
+
 
